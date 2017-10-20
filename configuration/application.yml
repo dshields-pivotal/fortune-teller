@@ -1,4 +1,4 @@
 fortune:
   fallbackFortune: Your future is bright!
-cloud-native-spring:
-  greeting: Guten Tag
+
+greeting: Guten Tag
